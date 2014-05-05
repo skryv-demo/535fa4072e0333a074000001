@@ -1,1 +1,18 @@
-{}
+{
+    "patintgegevens": {
+        "geslacht": {},
+        "etniciteit_vader": {
+            "0": {}
+        },
+        "etniciteit_moeder": {
+            "0": {}
+        },
+        "patint_niss": 1
+    },
+    "datacollectie": {
+        "puberteitprepuberteit": {},
+        "insulineschema": {
+            "0": {}
+        }
+    }
+}
